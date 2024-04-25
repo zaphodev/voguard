@@ -43,7 +43,7 @@ describe("compressed-nft", () => {
 
   before(async () => {
     const maxDepthSizePair: ValidDepthSizePair = {
-      maxDepth: 14,
+      maxDepth: 11,
       maxBufferSize: 64,
     };
 
